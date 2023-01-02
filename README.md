@@ -6,5 +6,5 @@ This is a simple and fun game to test your knowledge about space and astronomy.
 - Interesting
 - Educational
 # Screenshot
-![](screenshot/screenshot.PNG)
+![](screenshot/Screenshot.png)
 
